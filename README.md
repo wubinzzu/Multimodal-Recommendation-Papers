@@ -1,5 +1,3 @@
-================
-
 This repository collects  several papers related to multimodal recommendation systems and annotated the key technologies used in some papers.
 
 **KeyWords**: Multi-Modal Recommendation, Multimodal Recommendation, Micro-video Recommendation, Multimedia Recommendation
