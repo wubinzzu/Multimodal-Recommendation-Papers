@@ -1,4 +1,3 @@
-# Multimodal-recommendation-PapersMulti-Modal Recommendation System paper
 ================
 
 This repository collects  several papers related to multimodal recommendation systems and annotated the key technologies used in some papers.
