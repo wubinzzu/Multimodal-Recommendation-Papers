@@ -11,7 +11,7 @@ This repository collects  several papers related to multimodal recommendation sy
 ### Survey
 - `KDD(2024) `[Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671473). **[Survey]** **[[PDF](https://arxiv.org/pdf/2404.00621)]**
 - `TORS(2024)`[Multimodal Pre-training for Sequential Recommendation via Contrastive Learning](https://dl.acm.org/doi/10.1145/3682075) **[Survey]** **[[PDF](https://dl.acm.org/doi/10.1145/3682075)]**
-- `ACM Computing Surveys(2024)`[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/abs/10.1145/3695461) **[Survey]** **[[PDF]https://arxiv.org/pdf/2302.03883)]**
+- `CSUR(2024)`[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/abs/10.1145/3695461) **[Survey]** **[[PDF]https://arxiv.org/pdf/2302.03883)]**
 
 ### Multi-Modal Recommendation System
 
