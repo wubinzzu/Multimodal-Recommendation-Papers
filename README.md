@@ -1,6 +1,18 @@
 This repository collects  several papers related to multimodal recommendation systems and annotated the key technologies used in some papers.
 
 **KeyWords**: Multi-Modal Recommendation, Multimodal Recommendation, Micro-video Recommendation, Multimedia Recommendation
+
+- [Category](#Category)
+  - [Survey](#static-negative-sampling)
+  - [Multi-Modal Recommendation System](#static-negative-sampling)
+  - [Text-based Recommendation System](#static-negative-sampling)
+  - [Image-based Recommendation System](#static-negative-sampling)
+
+### Survey
+- `KDD(2024) `[Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671473). **[Survey]** **[[PDF](https://arxiv.org/pdf/2404.00621)]**
+- `TORS(2024)`[Multimodal Pre-training for Sequential Recommendation via Contrastive Learning](https://dl.acm.org/doi/10.1145/3682075) **[Survey]** **[[PDF](https://dl.acm.org/doi/10.1145/3682075)]**
+- `ACM Computing Surveys(2024)`[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/abs/10.1145/3695461) **[Survey]** **[[PDF]https://arxiv.org/pdf/2302.03883)]**
+
 ### Multi-Modal Recommendation System
 
 - `IEEE TMM(2024) `[Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability](https://dl.acm.org/doi/abs/10.1145/3695461). **[GNN+VAE]** **[[PDF](https://arxiv.org/pdf/2402.16110.pdf)]** **[[CODE](https://github.com/enoche/DGVAE)]**
@@ -15,7 +27,6 @@ This repository collects  several papers related to multimodal recommendation sy
 - `MM(2024) `[Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima](https://dl.acm.org/doi/abs/10.1145/3589334.3645553). **[Robust Optimization]** **[[PDF](https://arxiv.org/pdf/2402.11262)]** **[[CODE](https://github.com/Qrange-group/Mirror-Gradient)]**
 - `MM(2024) `[MMPOI: A Multi-Modal Content-Aware Framework for POI Recommendations](https://dl.acm.org/doi/abs/10.1145/3589334.3645449). **[Content-Aware Framework]** **[[CODE](https://github.com/zzmylq/MMPOI)]**
 - `KDD(2024) `[Improving Multi-modal Recommender Systems by Denoising and Aligning Multi-modal Content and User Feedback](https://dl.acm.org/doi/abs/10.1145/3637528.3671703). **[Denoising+Alignment]** **[[PDF](https://arxiv.org/pdf/2406.12501)]** **[[CODE](https://github.com/XMUDM/DA-MRS)]**
-- `KDD(2024) `[Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671473). **[Survey]** **[[PDF](https://arxiv.org/pdf/2404.00621)]**
 - `KDD(2024) `[MMBee: Live Streaming Gift-Sending Recommendations via Multi-Modal Fusion and Behaviour Expansion](https://dl.acm.org/doi/10.1145/3637528.3671511). **[Multi-modal Fusion+Behavior Expansion]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3671511)]**
 - `RecSys(2024) `[A Multi-modal Modeling Framework for Cold-start Short-video Recommendation](https://dl.acm.org/doi/abs/10.1145/3640457.3688098). **[Cold-start+Multi-modal]**
 - `AAAI(2024) `[LGMRec: Local and Global Graph Learning for Multimodal Recommendation]. **[GNN]** **[[PDF](https://arxiv.org/pdf/2312.16400.pdf)]** **[[CODE](https://github.com/georgeguo-cn/LGMRec)]**
