@@ -9,14 +9,27 @@ This repository collects  several papers related to multimodal recommendation sy
   - [Image-based Recommendation System](#static-negative-sampling)
 
 ### Survey
+- `Springer(2025)`[Multimodal Learning toward Recommendation](https://link.springer.com/book/10.1007/978-3-031-83188-1)**[Book]**
 - `KDD(2024) `[Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671473). **[Survey]** **[[PDF](https://arxiv.org/pdf/2404.00621)]**
 - `TORS(2024)`[Multimodal Pre-training for Sequential Recommendation via Contrastive Learning](https://dl.acm.org/doi/10.1145/3682075) **[Survey]** **[[PDF](https://dl.acm.org/doi/10.1145/3682075)]**
-- `CSUR(2024)`[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/abs/10.1145/3695461) **[Survey]** **[[PDF]https://arxiv.org/pdf/2302.03883)]**
+- `CSUR(2024)`[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/abs/10.1145/3695461) **[Survey]** **[[PDF](https://arxiv.org/pdf/2302.03883)]**
+- `arXiv (2025) `[A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions] **[Survey]** **[[PDF](https://arxiv.org/pdf/2502.15711)]** 
+
 
 ### Multi-Modal Recommendation System
 
-- `IEEE TMM(2024) `[Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability](https://dl.acm.org/doi/abs/10.1145/3695461). **[GNN+VAE]** **[[PDF](https://arxiv.org/pdf/2402.16110.pdf)]** **[[CODE](https://github.com/enoche/DGVAE)]**
-- `ACM Trans. Recomm. Syst.(2024) `[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://dl.acm.org/doi/abs/10.1145/3662738). **[Multimodal Deep Learning]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3662738)]** **[[CODE](https://github.com/sisinlab/Formal-MultiMod-Rec)]**
+- `arXiv (2025) `[Training-Free Graph Filtering via Multimodal Feature Refinement for Extremely Fast Multimodal Recommendation](). **[Graph filtering]** **[[PDF](https://arxiv.org/pdf/2503.04406)]**
+- `arXiv (2025) `[Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations](). **[Knowledge Transfer]** **[[PDF](https://arxiv.org/pdf/2502.15542)]** 
+- `arXiv (2025) `[Explainable Multi-Modality Alignment for Transferable Recommendation](). **[Multi-modality alignment]** **[[PDF](https://openreview.net/pdf?id=5qxBSIA0l3)]** 
+- `arXiv (2025) `[NoteLLM-2: Multimodal Large Representation Models for Recommendation](). **[Multimodal Large Language Model]** **[[PDF](https://arxiv.org/pdf/2405.16789)]** **[[CODE](https://github.com/Applied-Machine-Learning-Lab/NoteLLM)]**
+- `MM (2024) `[Modality-Balanced Learning for Multimedia Recommendation](https://dl.acm.org/doi/10.1145/3664647.3680626). **[Knowledge Distillation]** **[[PDF](https://arxiv.org/pdf/2408.06360)]** **[[CODE](https://github.com/CRIPAC-DIG/Balanced-Multimodal-Rec)]**
+- `MM (2024) `[DiffMM: Multi-Modal Diffusion Model for Recommendation](https://dl.acm.org/doi/10.1145/3664647.3681498). **[Multi-modal+Diffusion model]** **[[PDF](https://arxiv.org/pdf/2406.11781)]** **[[CODE](https://github.com/HKUDS/DiffMM)]**
+- `CIKM (2024) `[AlignRec: Aligning and Training in Multimodal Recommendations](https://dl.acm.org/doi/abs/10.1145/3627673.3679626). **[Multi-modal Alignment]** **[[PDF](https://arxiv.org/pdf/2403.12384)]** **[[CODE](https://github.com/sjtulyf123/AlignRec_CIKM24)]**
+- `CIKM (2024) `[Spectral and Geometric Spaces Representation Regularization for Multi-Modal Sequential Recommendation](https://dl.acm.org/doi/10.1145/3627673.3679647). **[Representation Optimization]** **[[CODE](https://github.com/WHUIR/E2ImgRec)]**
+- `CIKM (2024) `[GUME: Graphs and User Modalities Enhancement for Long-Tail Multimodal Recommendation](https://dl.acm.org/doi/10.1145/3627673.3679620). **[GNN+Multimodality Correlation]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3627673.3679620)]** **[[CODE](https://github.com/NanGongNingYi/GUME)]**
+- `CIKM (2024) `[Do We Really Need to Drop Items with Missing Modalities in Multimodal Recommendation?](https://dl.acm.org/doi/abs/10.1145/3627673.3679898). **[GNN+Missing Modalities]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3627673.3679898)]** **[[CODE](https://github.com/sisinflab/Graph-Missing-Modalities)]**
+- `TMM(2024) `[Disentangled Graph Variational Auto-Encoder for Multimodal Recommendation with Interpretability](https://dl.acm.org/doi/abs/10.1145/3695461). **[GNN+VAE]** **[[PDF](https://arxiv.org/pdf/2402.16110.pdf)]** **[[CODE](https://github.com/enoche/DGVAE)]**
+- `TORS(2024) `[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://dl.acm.org/doi/abs/10.1145/3662738). **[Multimodal Deep Learning]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3662738)]** **[[CODE](https://github.com/sisinlab/Formal-MultiMod-Rec)]**
 - `SIGIR(2024) `[Multimodality Invariant Learning for Multimedia-Based New Item Recommendation](https://dl.acm.org/doi/10.1145/3626772.3658596). **[Invariant Learning]** **[[CODE](https://github.com/HaoyueBai98/MILK)]**
 - `SIGIR(2024) `[Disentangling ID and Modality Effects for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3626772.3657748). **[Disentangled Representation]** **[[PDF](https://arxiv.org/pdf/2404.12969)]** **[[CODE](https://github.com/Zhang-xiaokun/DIMO)]**
 - `SIGIR(2024) `[Who To Align With: Feedback-Oriented Multi-Modal Alignment in Recommendation Systems](https://dl.acm.org/doi/abs/10.1145/3626772.3657701). **[Multi-modal Alignment]** **[[CODE](https://github.com/XMUDM/FETTLE)]**
