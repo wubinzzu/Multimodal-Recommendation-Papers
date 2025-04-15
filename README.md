@@ -13,7 +13,8 @@ This repository collects  several papers related to multimodal recommendation sy
 - `KDD(2024) `[Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671473). **[Survey]** **[[PDF](https://arxiv.org/pdf/2404.00621)]**
 - `TORS(2024)`[Multimodal Pre-training for Sequential Recommendation via Contrastive Learning](https://dl.acm.org/doi/10.1145/3682075) **[Survey]** **[[PDF](https://dl.acm.org/doi/10.1145/3682075)]**
 - `CSUR(2024)`[Multimodal Recommender Systems: A Survey](https://dl.acm.org/doi/abs/10.1145/3695461) **[Survey]** **[[PDF](https://arxiv.org/pdf/2302.03883)]**
-- `arXiv (2025) `[A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/pdf/2502.15711) **[Survey]** **[[PDF](https://arxiv.org/pdf/2502.15711)]** 
+- `arXiv (2025) `[A Survey on Multimodal Recommender Systems: Recent Advances and Future Directions](https://arxiv.org/pdf/2502.15711) **[Survey]** **[[PDF](https://arxiv.org/pdf/2502.15711)]**
+- `TORS (2025) `[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3662738) **[Survey]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3662738)]** 
 
 
 ### Multi-Modal Recommendation System
