@@ -72,7 +72,7 @@ This repository collects  several papers related to multimodal recommendation sy
 - `Electronics(2023) `[MKGCN: Multi-Modal Knowledge Graph Convolutional Network for Music Recommender Systems](https://www.mdpi.com/2079-9292/12/12/2688). **[KG+GCN]** **[[CODE](https://github.com/QuXiaolong0812/mkgcn)]**
 - `TKDE(2023) `[MM-FRec: Multi-Modal Enhanced Fashion Item Recommendation](https://ieeexplore.ieee.org/abstract/document/10100905). **[GNN]** 
 - `WWW (2023) `[MMMLP: Multi-modal Multilayer Perceptron for Sequential Recommendations](http://dl.acm.org/doi/10.1145/3543507.3583378). **[MLP-Mixer]** **[[CODE](https://github.com/Applied-Machine-Learning-Lab/MMMLP)]**
-- `MM(2023) `[Modal-aware Bias Constrained Contrastive Learning for Multimodal Recommendation...](https://dl.acm.org/doi/10.1145/3581783.3612568). **[CL]** 
+- `MM(2023) `[Modal-aware Bias Constrained Contrastive Learning for Multimodal Recommendation](https://dl.acm.org/doi/10.1145/3581783.3612568). **[CL]** 
 - `KBS(2023) `[Multi-Head multimodal deep interest recommendation network](http://linkinghub.elsevier.com/retrieve/pii/S0950705123004392). **[DIN]** **[[PDF](https://arxiv.org/pdf/2110.10205.pdf)]**
 - `Applied Intelligence(2023) `[Multimodal collaborative graph for image recommendation](https://link.springer.com/article/10.1007/s10489-022-03304-x). **[GNN]** 
 - `CSS(2023) `[Multimodal Contrastive Transformer for Explainable Recommendation](http://ieeexplore.ieee.org/document/10132382). **[Transformer]** 
