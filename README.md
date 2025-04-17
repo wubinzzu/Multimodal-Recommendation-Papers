@@ -17,6 +17,7 @@ This repository collects  several papers related to multimodal recommendation sy
 - `TORS (2025) `[Formalizing Multimedia Recommendation through Multimodal Deep Learning](https://dl.acm.org/doi/pdf/10.1145/3662738) **[Survey]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3662738)]** 
 
 
+
 ### Multi-Modal Recommendation System
 
 - `arXiv (2025) `[Training-Free Graph Filtering via Multimodal Feature Refinement for Extremely Fast Multimodal Recommendation](). **[Graph filtering]** **[[PDF](https://arxiv.org/pdf/2503.04406)]**
