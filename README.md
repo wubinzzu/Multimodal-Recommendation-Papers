@@ -20,6 +20,7 @@ This repository collects  several papers related to multimodal recommendation sy
 
 ### Multi-Modal Recommendation System
 
+- `Information Fusion (2025) `[PEARL: A dual-layer graph learning for multimodal recommendation](). **[GNN+CL]** **[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253525002416)]** **[[CODE](https://github.com/Yuzhuo-Dang/PEARL)]**
 - `arXiv (2025) `[Training-Free Graph Filtering via Multimodal Feature Refinement for Extremely Fast Multimodal Recommendation](). **[Graph filtering]** **[[PDF](https://arxiv.org/pdf/2503.04406)]**
 - `arXiv (2025) `[Bridging Domain Gaps between Pretrained Multimodal Models and Recommendations](). **[Knowledge Transfer]** **[[PDF](https://arxiv.org/pdf/2502.15542)]** 
 - `arXiv (2025) `[Explainable Multi-Modality Alignment for Transferable Recommendation](). **[Multi-modality alignment]** **[[PDF](https://openreview.net/pdf?id=5qxBSIA0l3)]** 
