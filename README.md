@@ -9,6 +9,7 @@ This repository collects  several papers related to multimodal recommendation sy
   - [Image-based Recommendation System](#static-negative-sampling)
 
 ### Survey
+- `arXiv(2025)`[Joint Modeling in Recommendations: A Survey](https://arxiv.org/pdf/2502.21195)**[PDF]**
 - `Springer(2025)`[Multimodal Learning toward Recommendation](https://link.springer.com/book/10.1007/978-3-031-83188-1)**[Book]**
 - `KDD(2024) `[Multimodal Pretraining, Adaptation, and Generation for Recommendation: A Survey](https://dl.acm.org/doi/abs/10.1145/3637528.3671473). **[Survey]** **[[PDF](https://arxiv.org/pdf/2404.00621)]**
 - `TORS(2024)`[Multimodal Pre-training for Sequential Recommendation via Contrastive Learning](https://dl.acm.org/doi/10.1145/3682075) **[Survey]** **[[PDF](https://dl.acm.org/doi/10.1145/3682075)]**
