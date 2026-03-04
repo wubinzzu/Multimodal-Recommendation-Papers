@@ -20,6 +20,16 @@ This repository collects  several papers related to multimodal recommendation sy
 
 
 ### Multi-Modal Recommendation System
+- `TKDE(2026)`Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2602.17354)]**
+- `AAAI(2026)`MoToRec: Sparse-Regularized Multimodal Tokenization for Cold-Start Recommendation **[[PDF](https://arxiv.org/abs/2602.11062)]**
+- `WWW(2026)`Personalized Parameter-Efficient Fine-Tuning of Foundation Models for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2602.09445)]**
+- `TORS(2025)`Single-Branch Network Architectures to Close the Modality Gap in Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2509.18807)]**
+- `CIKM(2025)`Modality Alignment with Multi-scale Bilateral Attention for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2509.09114)]**
+- `CIKM(2025)`Distribution-Guided Auto-Encoder for User Multimodal Interest Cross Fusion **[[PDF](https://arxiv.org/abs/2508.14485)]**
+- `CIKM(2025)`Hypercomplex Prompt-aware Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2508.10753)]**
+- `CIKM(2025)`Do Recommender Systems Really Leverage Multimodal Content? A Comprehensive Analysis on Multimodal Representations for Recommendation **[[PDF](https://arxiv.org/abs/2508.04571)]**
+- `RecSys(2025)`VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings **[[PDF](https://arxiv.org/abs/2507.17080)]**
+- `RecSys(2025)`Improving Visual Recommendation on E-commerce Platforms Using Vision-Language Models **[[PDF](https://arxiv.org/abs/2510.13359)]**
 - `arXiv (2025) `[Transferable Sequential Recommendation with Vanilla Cross-Entropy Loss](). **[Mamba]** **[[PDF](https://arxiv.org/pdf/2506.02916)]** 
 - `TCSS (2025) `[DDRec: Dual Denoising Multimodal Graph Recommendation](). **[GNN+CL]** **[[PDF](https://ieeexplore.ieee.org/abstract/document/10768190)]** **[[CODE](https://github.com/Ricardo-Ping/DDRec)]**
 - `Information Fusion (2025) `[PEARL: A dual-layer graph learning for multimodal recommendation](). **[GNN+CL]** **[[PDF](https://www.sciencedirect.com/science/article/pii/S1566253525002416)]** **[[CODE](https://github.com/Yuzhuo-Dang/PEARL)]**
