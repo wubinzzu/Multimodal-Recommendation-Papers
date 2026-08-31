@@ -20,6 +20,7 @@ This repository collects  several papers related to multimodal recommendation sy
 
 
 ### Multi-Modal Recommendation System
+- `CIKM(2026)`Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2608.27950)]**
 - `CIKM(2026)`BRIDGE: Behavior-Guided Residual Integration with Dual-Frequency Graph Evidence **[[PDF](https://arxiv.org/abs/2605.22073)]**
 - `SIGIR(2026)`Well Begun is Half Done: Training-Free and Model-Agnostic Semantically Guaranteed User Representation Initialization for Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2604.14839)]**
 - `TKDE(2026)`Training-free Graph-based Imputation of Missing Modalities in Multimodal Recommendation **[[PDF](https://arxiv.org/abs/2602.17354)]**
